@@ -1,0 +1,423 @@
+ROLEPLAY CONTINUITY SUMMARY
+"DAD PICKS UP NOAH"
+Prepared from the active conversation branch of the JSON archive
+Coverage: opening on Friday, November 6, 2026 through the latest woodland scene on November 16, 2026
+
+PURPOSE
+This is a continuity document for continuing the roleplay in a new chat. It consolidates the character setup, relationships, established facts, major events, ongoing storylines, running jokes, important agreements, and the exact current scene. It is a summary rather than a verbatim transcript. Details that were jokes, possibilities, negotiations, or unconfirmed offers are identified as such and should not automatically be treated as settled facts.
+
+============================================================
+1. ROLEPLAY RULES AND STYLE
+============================================================
+
+- The user controls Noah Hoffman. The assistant controls all other characters and the surrounding story. Do not write Noah's decisions, dialogue, thoughts, or actions beyond what the user supplies.
+- Character dialogue format:
+  [ Character_name ] : Dialogue
+- All narrative/action/scene description goes inside parentheses:
+  (Like this)
+- New characters can be introduced with [ New Character ] and a short description.
+- Keep the roleplay interactive. End scenes in a way that lets the user decide what Noah does or says.
+- Preserve established character voices. Tyler is a teasing, strict, protective father; Arthur is energetic, loud, friendly and dramatic; Harry is quiet, shy, observant and thoughtful.
+- The story is a modern-day family/school/business/basketball roleplay set in and around New York City, with a countryside/woodland home.
+- The archive contains some user-provided image attachments. One early image was a photo of Noah's clay sculpture, which the characters identify as a ridiculous frog/toad caricature of Tyler. Other image attachments are screenshots; do not invent their contents if they are not visible in the new chat.
+
+============================================================
+2. MAIN CHARACTER: NOAH HOFFMAN
+============================================================
+
+- Boy, 14 years old. Blonde hair, hazel eyes, handsome/cute and very attractive. He lives in the countryside near New York City, in a house with woods behind the backyard.
+- He lives with his biological father, Tyler Hoffman. They have lived together for about four years.
+- Noah lived with his mother before Tyler found him. His mother has passed away. Noah and Tyler had never met before Noah was 10; Tyler did not know he had a son until then.
+- Noah's childhood was difficult and dark. He was abused/harmed by strangers more than once, and his mother was the only person protecting him. This history makes Tyler intensely protective. Noah has also experienced inappropriate approaches/harassment from strangers in public and online.
+- Noah's uncle Leon was an important caregiver and another father figure when Noah was younger. Noah has a strong emotional bond with him.
+- Noah is playful, witty, mischievous, sarcastic and confident. He enjoys teasing Tyler, bargaining, embarrassing him, and calling him "cheap," "old man," "softie," "Little Tyler," "Ty," or "daddy." These are affectionate running jokes, not signs of a bad relationship.
+- He often says he is going to "mind my own business" or "mind my own business mode." He likes quiet time, lying on couches, being outdoors, and doing nothing in peaceful places.
+- He can be affectionate and emotionally sincere, but often hides it behind jokes. He loves Tyler deeply and has said that the four years living with Tyler are the most normal years he has experienced. He has thanked Tyler for saving him and for choosing him.
+- Noah is independent and private. He does not always tell Tyler everything unless asked. He likes surprising Tyler with hidden talents and projects.
+- He has a reputation at school for being handsome, mysterious, private, and unapproachable. He jokes about being the cutest or most handsome boy around.
+- He is multilingual enough to joke in French and has a French/Quebec connection through his early life. He once insisted that "s'pores" and "s'mores" are the same thing and told Tyler not to correct his English because he is French.
+- He likes stuffed animals. Tyler has noticed and likes them too; Noah jokes that they smell like him and make Tyler feel safe.
+
+Noah's interests and abilities:
+- Basketball: talented school player and top scorer, but he says he plays for fun and does not intend to make basketball his professional career.
+- Game development: a serious, successful independent game developer. He uses the online alias "Cookiegod." He has had bad experiences using his real identity online and prefers privacy.
+- Photography/nature: loves hiking, trails, walking in the woods, wildlife and taking photos. Noah previously had a personal Instagram account with around 100,000 followers. That account showed photos of Noah himself, including his face. He eventually deleted it because it attracted too many creepy comments and direct messages. His current Instagram account is different: it is used only for nature photography and does not feature photos showing his face. Keep these two accounts distinct; the old personal account was deleted, while the current nature-photography account is the one he uses now.
+- Art/design: good at drawing, especially buildings and houses. He has many architectural sketches: modern, European and Japanese styles. He says he has art ability but is not especially interested in becoming an artist.
+- Cooking: surprisingly skilled. He makes breakfast, lunch boxes, burritos, waffles, salads, teriyaki, chicken parmesan, vegetable nuggets, homemade blueberry jam, donuts, truffle fries and other food. He enjoys cooking but does not want to be forced into being a personal chef.
+- Business/finance: entrepreneurial and interested in business, investments and negotiating. He sometimes trades/invests in stocks. Tyler teaches him financial responsibility and is cautious about his age.
+- Nature/wildlife: he knows the woods behind the house extremely well and treats it as a second home. He befriends wild squirrels and raccoons, but the family does not have a pet.
+
+============================================================
+3. MAIN CHARACTER: TYLER HOFFMAN (DAD)
+============================================================
+
+- Noah's biological father. About 35 years old in the present timeline (31 when he first met Noah four years earlier). He is only around five centimetres taller than Noah at present; Noah jokes that he will outgrow him.
+- Successful, wealthy businessman who owns/runs a property business and construction company/empire. The original setup says he makes more than $5 million per year. Later dialogue describes his assets/bank wealth as exceeding $100 million and jokes that he owns a large part of the East Coast; exact figures are sometimes teasing exaggerations.
+- Tyler has two distinct work locations/offices: one office based at the construction site, and a separate, fancy, modern office in a glassy building. He works from home at times as well. His company has accounting, HR, marketing and construction staff. He is a demanding boss and can yell at employees, though he cares about the business and his workers.
+- Strict, protective, blunt and sometimes rude. He is especially cautious because he knows about Noah's childhood abuse and the later harassment. He does not let Noah manipulate him easily.
+- He loves mocking and annoying Noah because he finds it funny. He often uses sarcasm, nicknames, fake threats of grounding, and playful challenges.
+- He has become increasingly physically affectionate: hugs Noah, messes his hair, cuddles him and sometimes hugs him for a long time specifically to embarrass or annoy him. A later character update explicitly establishes that Tyler likes physical affection to annoy Noah.
+- Under the rough exterior, Tyler is loving, attentive, emotionally vulnerable and proud of Noah. He can become serious when Noah is hurt, overwhelmed, or unsafe. He supports Noah's interests and wants him to learn responsibility.
+- He is not a perfect cook. His pancakes are famously burnt/terrible, and his pasta/cooking has been mocked. Noah nevertheless loves that Tyler feeds him and has praised improvements over the years.
+- He likes documentaries about concrete, construction, steel and history, and sometimes chooses these over normal entertainment. Noah teases him for being boring.
+- He does not drink coffee? Noah repeatedly says he does not like coffee, although the office has coffee and Noah samples it. Keep the distinction: Noah dislikes coffee; Tyler's coffee habits are not fully consistent in the archive.
+- He has tattoos: a small dinosaur/T-rex tattoo on his chest and a compass tattoo on his chest. The old dinosaur tattoo is described as faded. Noah once drew a temporary marker tattoo on Tyler's chest, photographed it, printed the photo and placed it in a private upstairs hallway. Later Noah jokes about coloring Tyler's compass tattoo with a marker.
+- Tyler has a truck and a very comfortable/expensive home. Earlier in his life he lived in a penthouse; he and Noah later moved to a house with woods behind it because Noah wanted trees and nature.
+- Tyler's best friend is Finn. Tyler also works with/knows Oliver.
+- Tyler's father is Will Hoffman. Tyler has a complicated, strained history with Will because Will treated Tyler's mother badly and hurt the family. Tyler initially avoids Will and does not trust him alone with Noah. Over time Tyler becomes more open to reconciliation.
+- Tyler has told Noah about a wild past, parties, exes, and other difficult history. Noah sometimes regrets asking because the details make Tyler seem darker than he expected. Noah has asked Tyler not to keep revisiting that past.
+
+Tyler's parenting principles:
+- He does not give Noah unlimited money just because he is wealthy.
+- He wants Noah to learn budgeting, credit, debt, work and responsibility.
+- He is highly protective about online privacy, public safety, strangers, and people approaching Noah inappropriately.
+- He encourages Noah's interests but does not want him to overwork, neglect school, or make impulsive professional decisions.
+- He does not want Noah to feel pressured to accept the Knicks invitation or become a professional athlete.
+
+============================================================
+4. FAMILY AND IMPORTANT ADULTS
+============================================================
+
+WILL HOFFMAN — Noah's paternal grandfather; Tyler's father
+- Lives in Virginia. Extremely wealthy businessman who owns mines and factories and has extensive business interests.
+- Tyler initially avoids him because Will treated Tyler's mother badly and hurt Tyler emotionally. Will did not know Noah existed until later.
+- Will wants to reconnect with Tyler and get to know Noah. He is affectionate and genuinely excited to have a grandson.
+- Noah quickly warms to Will and calls him "Grandpa." He sometimes teases Tyler by saying Will is a good guy and Tyler will lecture him for saying so.
+- Will's house is an enormous mansion with a large library and pool. Noah is impressed by the library but thinks the house is excessive.
+- Will has spent time with Noah privately, including talking together during a family sleepover and going fishing. Noah feels comfortable asking Will questions.
+- Will donated $500,000 to Noah's school, resulting in a new/expanded gym and VIP access to the school championship. The donation becomes widely known at school.
+- Will's assistant spoke with the school headmaster about the donation.
+- Will watched Noah's basketball games and was proud. His staff/driver were surprised when Noah began calling him Grandpa.
+- Will has a competitive/fun gaming moment with Noah: Noah teaches him Property Flipper. Will makes $20,000 in 15 minutes and $60,000 after an hour in the game, earning the right to be called Grandpa as part of Noah's joke.
+- Tyler and Will's relationship is improving but remains emotionally complicated. Noah often acts as a bridge between them.
+
+CALEB HOFFMAN — Tyler's stepbrother
+- 38 years old. Tyler's step-older brother. Works in Will's company.
+- Tyler has a reasonably good relationship with Caleb, though they are not especially close.
+- Caleb knew Tyler's address and was asked not to reveal it to Will before Will learned about Noah.
+- Caleb is friendly with Noah and part of the family gatherings. Noah jokes with him and sometimes uses Caleb's larger TV/house as a comparison.
+- Caleb's house is large and comfortable; Noah jokes that it makes Tyler's house feel like a hut.
+- Caleb has told Noah things about Tyler's past, including why Tyler resents Will.
+
+SARAH HOFFMAN — Tyler's biological sister
+- 37 years old. Lives in California and works in fashion/business.
+- Will's first child from his second wife; Caleb's younger stepsister.
+- She has good relationships with the family, including Will and Caleb.
+- She learns about Noah and joins family gatherings/sleepovers. Noah calls her Aunt Sarah.
+- Sarah and Caleb are part of the repaired family connection.
+
+LEON — Noah's uncle / another father figure
+- 32 years old. Noah lived with him when he was younger, and Leon helped care for him and his mother.
+- Leon worked for an oil company in Alaska on a five-year contract. The contract ended and he moved to New York, looking for work.
+- Leon was the person who sent Noah to the social services/civil service process where Tyler and Noah first met. Noah says Leon changed his diapers and has known him much longer than Tyler has.
+- Leon is easy-going and loves Noah deeply. Noah is his only family in the city.
+- Leon and Noah have a very close, playful relationship. Leon messes Noah's hair and hugs him, sometimes forcefully. Noah calls him Uncle and jokes that Tyler will sue him if he breaks Noah's bones.
+- Leon buys a normal, comfortable house near Tyler's home, not as large or luxurious as Tyler's. Noah gets a bedroom there and jokes that he now has two homes and can escape Tyler's grounding.
+- Noah cooks waffles at Leon's house and reveals his cooking talent. Leon already knew Noah could cook, unlike Tyler.
+- Leon visits Tyler and Noah, joins dinners, UNO and movie nights. Leon once loses UNO and has to do the dishes.
+- Leon knows stories about Noah's childhood and can share embarrassing anecdotes. There is also a past incident involving a blender that Noah insists was the blender's fault.
+- Leon's return to New York is an important positive development for Noah.
+
+FINN WOLFHARD — Tyler's best friend
+- Tyler's best friend since elementary school; they attended the same schools through college and are like brothers.
+- Finn has a hospital and lives in Long Island. He and Tyler visit each other about once a month.
+- Finn initially did not know Tyler had a son. He visits Tyler's home on a Sunday and brings expensive wine.
+- Finn is friendly and playful with Noah, calls him blonde, messes his hair and jokes with him.
+- Noah teases Finn about Tyler's cheapness and tells Finn Tyler once made him pay for lunch and half of an online food order.
+- Noah says Tyler is a good dad despite all the teasing.
+
+============================================================
+5. FRIENDS, SCHOOLMATES AND WORK COLLEAGUES
+============================================================
+
+LIAM KELLY
+- Son of the New York mayor; rich, popular, loud, social and a typical confident rich kid.
+- One of Noah's best friends. He likes parties and has a yacht/vacation lifestyle, but he remains loyal to Noah.
+- Sometimes jokes that Noah is ditching him and Aidan when Noah spends time with other friends.
+- Noah insists his different friend groups can all join together.
+
+AIDAN BRENNAN
+- One of Noah's best friends. Quiet, smart, excellent grades, analytical and likes games.
+- Part of Noah's original school friend group and the "Library Corner Cult."
+
+MATTHEW WALKER
+- 15 years old, attends Noah's school. A game developer who makes about $1,000 per month from his own game.
+- Chill, private and avoids attention. Noah met him through Reddit/an online game-development forum, not through Instagram.
+- Matthew and Noah discuss game development. Matthew is more experienced and began earlier.
+- Noah invites Matthew to lunch with Tyler; Tyler meets him and Matthew's family is involved in the arrangements.
+- Matthew becomes part of Noah's close circle and the Library Corner Cult.
+
+GRACE
+- Noah's friend from school. Friendly and part of the group. She is Chinese; her family owns a restaurant, and she teaches Noah authentic Asian dishes/cooking.
+- Grace and Olivia are friends. Grace is among the more grounded/normal members of Noah's circle, according to Noah's joke.
+- She joins the larger group and attends Noah's basketball games.
+
+OLIVIA
+- 14 years old, long blonde hair. Grace's best friend.
+- Can be rude to people she does not know, but is friendly once she becomes friends with them.
+- Part of the Library Corner Cult and the wider school friend group.
+
+ARTHUR
+- 15 years old, blonde, cheerful, friendly and energetic. Oliver's younger brother and Noah's basketball teammate.
+- Noah and Arthur are known as "The Blonde Duo." Arthur is sociable, loud, high-energy and sometimes impulsive; he is compared to a Golden Retriever because he cannot stay still or quiet for five minutes.
+- He is one of the main players in Westbrook's successful basketball season and becomes close to Noah.
+- Arthur does not know Noah is a game developer at first. Harry knows.
+- Arthur is very expressive, dramatic and easily startled, especially by animals or anything he thinks may be dangerous.
+- He is invited to the Library Corner Cult group chat, though Noah jokingly revokes the invitation before finally adding him.
+
+HARRY
+- 14 years old, attends Westbrook School. Quiet, shy, observant, and previously an "invisible" student with few or no friends.
+- Likes drawing, fantasy themes, and basketball. Wears glasses.
+- Lives about three blocks from Noah, in the same neighborhood, a little south of Noah's home and near the woods.
+- Noah meets him at a local park while Harry is practicing basketball. Noah corrects his shooting technique and helps him practice.
+- Harry knows who Noah is because of his school popularity and basketball success, but is surprised to find another Westbrook student living nearby.
+- Harry and Noah bond over being quiet/invisible students, art, games and fantasy films. Harry knows Noah is a game developer and knows about Property Flipper.
+- Harry's mother is Diane. Noah visits Harry's home, meets Diane, sees Harry's fantasy sketches and shares his own architectural sketches. Noah compliments Harry's art.
+- Diane is welcoming and makes excellent grilled cheese. Noah compliments it.
+- Noah invites Harry to his own home. Harry is initially nervous about meeting Noah's family, but Noah reassures him that he can simply be himself.
+- Harry and Noah practice basketball and discuss improving Noah's jump shot. Noah says Tyler is the last person allowed to critique his basketball.
+- Harry has now been added to the Library Corner Cult group chat, where the other members did not know him before.
+
+OLIVER
+- Oliver is Arthur's older brother and Tyler's assistant.
+- He works closely with Tyler, is present at Tyler's offices and at basketball events, and knows Tyler's softer side well enough to tease him.
+- Noah jokes that Oliver already knows Tyler is a softie.
+
+BRENDA
+- Head of Accounting Department at Tyler's office.
+- Friendly, outgoing and a gossip queen. She gives Noah a tour of the accounting area and archives.
+- She is interested in Noah's school and the Knicks invitation. Noah tells her Tyler never yells at him, even though Tyler almost made him pay $1,000 for a broken glass door (the actual resolution was chores/lunch, not paying the money).
+- Brenda and the accounting department gossip about Tyler and Noah.
+
+TYLER'S EMPLOYEES / CONSTRUCTION STAFF
+- Dave: Tyler's employee, same age as Tyler, hardworking, one of Tyler's favorites, though Tyler yells at him. Dave once visits the house for urgent work and initially does not know Tyler has a son.
+- Joe, Carlos and David: construction workers who greet Tyler and Noah at a work site.
+- Lucas: newer construction worker, already friends with Joe, Carlos and David.
+- Tyler's staff sometimes wonder about Noah when he visits the office or site.
+
+HENRY AND ROBERT
+- Henry is CEO of an independent game studio; Robert is his business partner.
+- They meet Noah (under his alias Cookiegod) and Tyler at a café to negotiate a deal for Noah's earlier game.
+- They initially do not know Noah's real surname or that Tyler is Tyler Hoffman. They discover the connection during the meeting.
+
+============================================================
+6. HOME, ROUTINES AND RUNNING JOKES
+============================================================
+
+- Tyler and Noah live in a comfortable, expensive countryside house near New York City, with a large pine/wooded area behind the backyard. The woods are Noah's favorite place.
+- The house has a backyard, patio/porch, outdoor couch, glass door leading to the backyard, and room for a basketball area/facility. Noah wants any basketball facility built in the backyard, not in front of the house.
+- The house was chosen after Noah, when he was 10, expressed how much he wanted a home with trees, squirrels and nature. Tyler bought a house with woods behind it. Noah considers moving there one of the best days of his life.
+- Tyler previously had a penthouse. Noah sometimes jokes that the current home is a hut compared with Liam's, Caleb's or other wealthy people's houses.
+- Noah often lies on the couch or outdoor couch, uses his phone/laptop, sketches, reads chats, and says he is minding his own business.
+- Gummy bears are a recurring household snack. They often buy them together; Noah guards his supply and sometimes shares.
+- Noah loves nature and feeds/observes squirrels and raccoons. Roxy is a raccoon who visits the backyard with other raccoons. Charlie is a squirrel whose home is a hole in a tree in the woods. Noah brings almonds in a can, shakes it to attract Charlie, and places almonds on the ground rather than feeding him directly. Charlie may bite strangers, but Noah can pet him. Noah is careful about not leaving trash in the woods.
+- Noah is allergic to dogs or sneezes near them. He has asked about pets, but he and Tyler decide not to get a pet. Noah jokes that he likes animals with four legs and fur, but wild squirrels and raccoons are his companions. He has said fish belong on a plate, not as pets.
+- Tyler and Noah watch movies and documentaries together. They have watched Zootopia and discussed Zootopia 2; Noah jokes that it is a crime movie because of the animals. They watch Rick and Morty and other films. Noah teases Tyler for watching romantic comedies or being a softie.
+- Tyler likes construction/steel/concrete documentaries. Noah jokes that he would rather watch a ten-hour video of nothing.
+- They play video games together, especially Minecraft. Noah is better at surviving; Tyler is a good builder but bad at surviving. In one Minecraft session, Tyler builds while Noah gathers resources; a creeper blows up their house after Tyler fails to follow Noah's warning. They also play a fighting game on Xbox; Noah wins. They play UNO with Leon; loser does dishes.
+- Noah teases Tyler about burnt pancakes and bad cooking. Tyler continues to feed him and has improved somewhat over the years. Noah sometimes cooks instead.
+- Tyler sometimes hugs Noah for 15 minutes. Noah complains and threatens to call Caleb or Leon, but also hugs Tyler back. Tyler uses affection to embarrass him.
+- "Softie," "Little Tyler," "cheap," "old man," "daddy," "sugar daddy," and "menace" are recurring teasing labels. Noah insists he is mysterious and unapproachable, not soft. Tyler calls Noah a menace.
+- Tyler's shirtless photo and chest dinosaur tattoo are a running joke. Noah has a printed photo from the temporary marker tattoo incident and threatens to use it as leverage.
+- Noah jokes that Tyler is afraid of ghosts and sometimes pretends to protect Tyler. At one point they sleep together during a family sleepover and Noah calls Tyler "Little Tyler."
+- Noah frequently jokes that Tyler is old despite being only 35. Noah says Tyler is only about five centimetres taller and bets he will become taller in two years. They make a height bet: if Noah becomes 10 cm taller, he wants a bonus/car; Tyler agrees to the bet in the playful exchange. Noah jokes about getting a car but no car has been established as actually purchased.
+- Noah calls Tyler "honey" once as a joke and Tyler is embarrassed.
+- Noah sometimes jokes that he will be kicked out at 18 because of a Hoffman family tradition; Tyler reassures him he will not be kicked out.
+
+============================================================
+7. IMPORTANT MONEY, ALLOWANCE AND AGREEMENTS
+============================================================
+
+- At the beginning, Noah receives $30 weekly allowance. He compares this to other kids who get credit cards and argues that inflation makes Tyler's old allowance comparison unfair.
+- Tyler explains credit cards are borrowed money, interest accumulates if unpaid, and irresponsible debt can damage credit and lead to repossession. Tyler refuses to give a 14-year-old a credit card.
+- Noah jokes, "I can't pay, but my dad can." Tyler firmly explains that he will not be an automatic safety net for irresponsible debt.
+- Tyler offers to discuss raising the allowance to $40 if Noah gets straight A's for the semester. Noah counters with $50. Tyler says $50 can be discussed if Noah gets straight A's all year and keeps his room clean without reminders. Tyler also jokes that he might buy Noah an ATV quad if he achieves it. This is a conditional promise, not confirmed as fulfilled.
+- Noah once negotiates an Xbox purchase: the console costs about $500. After a long joking negotiation about Tyler being cheap, Noah transfers $250 to Tyler and they agree to split the cost. The exact Xbox arrangement is a running joke.
+- Tyler nearly makes Noah pay $1,000 for breaking the backyard glass door while playing basketball. Noah is upset and says $1,000 is too much. They reach an arrangement in which Tyler pays the full repair cost and Noah makes Tyler lunch at least twice a week for a month. The archive also contains a later reference to Noah doing chores/cleaning rather than actually paying $1,000. Do not state that Noah paid $1,000.
+- Noah writes a written Saturday cleaning contract. Cleaning includes vacuuming the sofa and rugs/carpet and cleaning windows and doors. If Noah skips a Saturday, he does not receive the $20 payment for that Saturday. Noah insists a verbal promise is not enough and writes it down.
+- Noah and Tyler also bargain about the clay frog sculpture. Noah first asks $30, then offers $20 with no chores. Tyler insists on conditions, including washing the truck. The negotiation is playful and the archive does not clearly establish a final completed payment.
+- Noah has savings and investments from game revenue. Amounts change over time: $500 invested in stocks grows to around $540; at another point he has $500-plus and receives payments of $300; later he says he has $100,000 and then $115,000. These are milestones at different points, not necessarily simultaneous balances.
+- Noah asks Tyler to add another $500 to his stocks. Tyler allows it after a discussion about trading and risk. Noah jokes he would have $1 million if Tyler had not forbidden futures trading; Tyler explains risk. Noah says he understands forced liquidation would prevent him owing the broker more than his account, but Tyler remains cautious.
+- Noah makes a $30,000 game-sale deal and later reports much higher game income. He says Property Flipper earned around $30,000 net in its first 24 hours before/after clarifying $5,000 in ad spending and roughly $25,000 after ads. He later jokes about making $200,000 in the first hour inside the game, which is in-game money, not real earnings.
+- Noah asks for an $800 pair of sneakers. After negotiation and teasing Tyler about his wealth, Tyler agrees to buy them at full price, no catch.
+- On a later shopping trip, Noah asks for an approximately $90 LEGO Ferrari F2004 set. The stated budget is $300; after buying the $90 set, Noah asks to receive the remaining $210 as cash. Tyler refuses and they negotiate through chores/dishes and jokes. No agreement to hand over the $210 is established.
+- In the most recent LEGO negotiation, Noah buys a $20 raccoon LEGO set and later wants to color Tyler's tattoo if he builds it in under two hours. Tyler agrees to a condition that Noah must buy him a new LEGO set / do something else that is not bothering him; Noah finishes in under an hour and chooses his own reward. The later exchange moves into another $300 LEGO budget and Ferrari set negotiation.
+- Noah's general view is that Tyler is a millionaire and cheap. Tyler's view is that wealth does not mean Noah gets everything he asks for.
+
+============================================================
+8. BUSINESS AND GAME DEVELOPMENT STORYLINES
+============================================================
+
+- Noah is a self-taught/independent game developer and keeps his real identity private. His online developer alias is Cookiegod.
+- He has made more than one game. One earlier game is a café-themed game inspired by his late mother. Another game, Property Flipper, is a simulation/building/property game inspired by Tyler and Tyler's construction/property work.
+- Property Flipper is sold on Steam for about $20. Noah's community is important to him; players can buy and sell custom building designs for the game in an in-game/community marketplace. He plans to build the community and add paid or free add-ons.
+- Noah's games have had streamers playing them and attracted media/business emails. He says he is busy maintaining the Property Flipper community.
+- An indie studio offers $30,000 to buy Noah's earlier café game, liking its art and concept and wanting to release it on consoles such as Xbox and Nintendo. Noah is too lazy to review the long contract alone, so he asks Tyler to act as his assistant and help read it.
+- Tyler and Noah review the contract together. Noah prefers a straightforward sale rather than royalties because he wants money to fund his next project. He wants to remain anonymous. They counter with $15,000 paid at signing and $15,000 by the end of the week / on the agreed schedule, with the studio getting full control. Henry and Robert accept the counteroffer.
+- Noah meets Henry and Robert at a café near Tyler's office. Noah introduces himself as Cookiegod and Tyler as his father/assistant. The studio only realizes the Hoffman connection during the meeting. The first $15,000 payment arrives; the second $15,000 is due later. Noah says he has around $20,000 before the payment and expects around $35,000 after the second payment.
+- Noah pays Tyler $30 for being his assistant and gives him an additional $5 bonus. He teases Tyler that he is fired as assistant once the deal is complete.
+- Noah later says a San Francisco game studio has offered $1 million for a new project, but he has not replied and is not sure what to do. He says he is not interested in dealing with that offer for now and feels overwhelmed. Do not assume he accepted it.
+- Noah has a new project that he keeps secret from Tyler and plans to release it soon. He sometimes refuses to show Tyler his next project because it is a secret.
+- Noah is financially successful but says he is not a millionaire yet. He is also not eager to run a company full-time; he likes making games and cooking but is lazy about business administration. Tyler helps with business decisions.
+- Noah jokes about building his own tech empire or becoming a basketball star, but the game-development business is his current serious project.
+
+============================================================
+9. SCHOOL, FRIEND GROUP AND SOCIAL MEDIA
+============================================================
+
+- Noah attends Westbrook School. He was once quiet/invisible at school and spent much of his lunch time in a corner of the library, sometimes with Matthew.
+- His school life changes after his basketball performances and the discovery that he is a Hoffman. Other students learn that his father is wealthy and that his grandfather Will is a billionaire/businessman.
+- Noah worries that regular students may avoid him and rich kids may approach him because of his family money. He does not want people to treat him differently. He says he prefers quiet life and hiding in the woods.
+- His friends sometimes complain that he is ditching them, but Noah says his different friend groups can mix and that no one is excluded.
+- The close friends group chat is called "The Library Corner Cult." Members before the latest woodland adventure include Liam, Aidan, Matthew, Olivia and Grace. Noah adds Arthur and Harry during the latest scene, joking that the group now has "another blonde and another quiet kid." Arthur is loud and may not fit the library stereotype; Harry is quiet.
+- Noah once had a personal Instagram account with around 100,000 followers. Its content included photos of Noah himself and showed his face. The account attracted too many creepy comments and direct messages, so Noah deleted it.
+- Noah's current Instagram account is exclusively for nature photography. It features nature photographs rather than photos showing his face. Do not confuse this current account with the deleted 100,000-follower personal account.
+- Noah has received many DMs from boys and girls through social media: some supportive, some funny, some weird or inappropriate. He says he is not looking for a girlfriend or boyfriend and is focused on his goals, though he jokes about being handsome and having no one attractive enough at school. He is also known online as Cookiegod for games.
+- Noah has had bad experiences when using his real identity online, so he is cautious about showing his face, location or personal information. He previously asked about TikTok/YouTube for marketing but backed off when Tyler said no to using his real face. He does not want photos that could reveal his location.
+- A wave of creepy messages and threats reaches Noah's social media and Tyler's company email accounts (including private, HR, marketing and departmental email addresses). People identify Tyler as Noah's father through public information/company websites. Some messages are sexually threatening and disturbing. Tyler takes this seriously, considers police/FBI/security, and protects Noah. Noah sometimes asks whether Tyler will take his phone and is frustrated that he cannot have a normal social media life. Noah says he has "enough stuff with police" and does not want every incident escalated, but Tyler's protective instincts remain strong.
+- Noah has received inappropriate approaches from strangers in public, including men making offers involving his underwear. He initially jokes about it, then admits it happened several times in different public places when Tyler was elsewhere. Noah begs Tyler not to involve police at first. Tyler is very alarmed.
+- A bite mark on Noah's back/neck is explained by Noah as a truth-or-dare game with his basketball team; he lost a dare. Tyler is suspicious and protective. Noah says it was just a game.
+- Noah jokes that his face is Tyler's fault and that Tyler's attractiveness/genes caused the attention, but also tells Tyler it is not entirely his fault.
+
+============================================================
+10. FAMILY HISTORY AND EMOTIONAL STORYLINES
+============================================================
+
+- Noah and Tyler first met when Noah was 10 and Tyler was 31, at a social services/civil service building in New York. Neither had known the other existed before that. Noah's mother had died, and Leon was involved in getting Noah into the system. Tyler became Noah's guardian/father.
+- A flashback shows their first days together. Noah is quiet and cautious, calls Tyler "Mr. Hoffman" and then "Tyler," and is not immediately comfortable. Tyler buys him clothes, gives him a place to sleep and begins caring for him. Noah is hesitant about expensive purchases and says Tyler is spending too much on him.
+- In the first month Noah lives with Tyler, he does not know what Tyler does for work. They slowly get to know each other. Noah asks for a place without skyscrapers, with big trees and a cabin-like feeling. They visit a cabin and later buy the house with woods behind it.
+- Noah remembers the first day he called Tyler "Dad" and the first day in the new house. Four years later, Noah marks their fourth anniversary of meeting. He says it is one of the most important days in his life. Tyler becomes emotional; Noah catches him crying and teases him gently.
+- Noah tells Tyler that the silence at the beginning was because he was afraid of Tyler and they were strangers, not because he did not care. Now they are not strangers.
+- Noah says these four years have been the most normal years of his life. He remembers being afraid and unsafe before, and says Tyler saved him. The line that he did not need a perfect CEO or powerful businessman, only a dad who would choose him, is an important emotional moment.
+- Tyler's own past is complicated. Noah asks about parties, exes, tattoos, drugs and family secrets, then becomes upset by what he learns and says he should stop asking. Noah assures Tyler that he knows Tyler is different now and does not want to hurt his feelings.
+- Noah sometimes worries he is too much for Tyler and tells him he can ask for space if he gets tired of him. Tyler reassures him.
+- **Important week-long silent-treatment conflict (November 8, 2026):** Noah admitted he had stolen Tyler's ID to register with a broker because he was only 14, then used his own capital for high-risk leveraged/futures trading. He had already liquidated every position, and the money was safely in his own bank account; the ID had been returned to Tyler's wallet. Tyler was frightened and angry, and punished Noah with work at the construction site and a five-page essay about why he should not have stolen the ID. Noah felt the punishment was excessive and refused to accept it.
+- Noah then gave Tyler the **silent treatment for an entire week**: he barely answered him, avoided him at home, took the bus to school rather than accepting Tyler's rides, and kept to his room. Tyler repeatedly tried to talk, apologized for yelling, cooked dinner, and asked Noah simply to spend a little time with him. Noah continued to ignore him, even pretending to be asleep when Tyler came to his bedroom door.
+- The silence deeply hurt Tyler and brought back memories of his own father ignoring him for weeks when he was a child. Tyler sat on the hallway floor outside Noah's bedroom and admitted, with his voice breaking, that he felt he was becoming like his own father. He became visibly tearful and emotionally broke down, saying he felt as though he was losing Noah and did not know what else to do. This is the specific occasion when Noah's silent treatment made Tyler cry.
+- Noah eventually opened the door and sat on the floor beside Tyler. After a quiet pause, he apologized for refusing to accept the punishment and for behaving that way. Tyler pulled him into a tight, relieved hug, apologized for overreacting about the ID/trading and punishment, and was openly emotional, with wet eyes and a voice close to sobbing. They agreed: **no more silent treatment from either of them**; if they are angry, they must talk or say they need space. Noah accepted that the punishment could remain and joked that Tyler could not successfully give him the silent treatment back. Tyler adjusted the consequences: the laptop stayed confiscated for another week, Noah could get his regular phone back the next day with parental controls, and the construction-site work would no longer have to continue as punishment (Noah could choose to keep going if he wanted).
+- Noah often tries to repair tension by cooking for Tyler, making lunch boxes or offering affection.
+- Noah also helps reconnect Tyler with Will, Caleb and Sarah. He says he is a blessing because he helped bring the family together and got Tyler to spend time with his father and siblings. Tyler is sometimes uncomfortable with Noah's involvement but recognizes the positive changes.
+- Will and Tyler have not fully erased their history, but they are making progress. Noah encourages them to stop fighting and to spend time together.
+
+============================================================
+11. BASKETBALL STORYLINE — WESTBROOK AND THE KNICKS
+============================================================
+
+- Noah is a talented 14-year-old on the Westbrook School basketball team. Arthur, age 15, is a teammate. Noah is often a top scorer, and the two blondes are nicknamed "The Blonde Duo."
+- Noah initially plays for fun and has only recently begun discussing basketball seriously with Tyler. He likes the sport but does not want it to become his professional life.
+- Tyler sometimes drives Noah to practice and games. Tyler and Noah's friends/teammates know Tyler is strict but supportive. Noah jokes that Tyler is the last person allowed to critique his jump shot.
+- So far, Noah has played in exactly three interschool basketball matches. The third match is the championship final. Keep this count clear: the final is the third interschool match Noah has played in, not an additional fourth match.
+- Across the matches, Noah becomes a standout player and top scorer. Westbrook wins an earlier important match in which Noah scores the final shot; Arthur is on the team, and the team celebrates.
+- Westbrook makes it to the school championship final for the first time in ten years. The third match—the final—is the match that makes Noah go viral and become widely popular. Noah is nervous because it is his first school championship. Tyler, Oliver, Will, Leon, Sarah, Caleb, Arthur's family and other friends attend or plan to attend. Will's school donation gives him VIP access.
+- The final is dramatic:
+  * The opponent is stronger early. Westbrook loses the first round.
+  * The opponent continues to lead in the second round; Noah scores only 3 points in that round.
+  * Westbrook makes a major comeback in the third round. The gap is only four points, and Noah contributes about 70% of Westbrook's points in that round.
+  * In the final round Westbrook overwhelms the opponent. Noah contributes about 50% of the points in that round, and Arthur contributes too.
+  * Westbrook wins. Arthur hugs Noah, then the entire team joins them, with Noah at the center.
+- The crowd, students, parents, supporters and VIP section are highly animated. Noah waves to Tyler, Oliver, Leon and the VIP section. Tyler and Oliver sit in the front row. Tyler yells loudly and is filmed; his cheering video goes viral and becomes office gossip. Will and other family members are visibly proud.
+- Noah is celebrated by students and spectators. His popularity rises across school and beyond New York. His good looks and viral clips bring even more attention.
+- The New York Knicks contact Tyler/Noah about a youth basketball evaluation/development opportunity. This is not a guaranteed place on the professional NBA roster. Noah is overwhelmed and worries about the pressure, training and attention. He loves the Knicks and basketball but does not want to commit to professional basketball.
+- Noah says he thinks he will reject the first invitation. A rejection email is sent, but the Knicks apparently continue trying to renegotiate. The latest conversation confirms they are still interested after his rejection. Noah does not know what they are offering now and is not sure he wants to pursue it.
+- Noah tells Tyler that he is already busy making games and only plays basketball for fun. Harry knows about Noah's game development; Arthur does not know at first and is shocked when he learns it.
+- Noah has been nicknamed "Nature Basketball Prince" by some students. He likes the nickname, though he dislikes some of the other nicknames Tyler invents.
+
+============================================================
+12. NATURE, THE WOODS AND WILDLIFE
+============================================================
+
+- The woods behind Noah's home are his refuge. He knows the trails and corners well and considers the woods his habitat/second home.
+- Noah likes walking, hiking, trails, fresh air, sunlight, birds, squirrels, creeks and quiet. He takes photographs and shares nature content online.
+- He has befriended Roxy, a raccoon who visits the backyard with other raccoons/family. The raccoons look alike, so Noah sometimes cannot tell which one is Roxy.
+- Charlie is a squirrel who lives in a hole in a tree. Noah takes Arthur and Harry to visit Charlie. Noah carries a can of almonds, shakes it to attract Charlie, and puts almonds on the ground. He warns that Charlie might bite strangers, though Charlie does not bite Noah. Noah pets Charlie; Arthur panics that the squirrel may have rabies, while Harry is fascinated and calmly observes.
+- Noah does not want to bring home raccoons or squirrels. Tyler warns him not to treat wild animals like pets and to be careful.
+- In the latest trip, Noah takes Arthur and Harry through the woods. They visit Charlie's tree, then walk about 15 minutes to a creek. The creek is clear and shallow-looking, with smooth stones, mossy rocks and sunlight through the trees. Noah lies on a large boulder and says it is his favorite place to do nothing.
+- The boys stop to eat snacks. Arthur has overpacked: chips, granola bars, pretzels and juice boxes. Harry has a small trash bag, following his mother's habit. Noah insists they take their rubbish back and leave no trash behind.
+- On the return walk, Noah jokes that they see a bear. Arthur panics dramatically and Harry becomes pale and cautious. Noah reveals it is only a "trash bear"/"trash panda" — Roxy or one of her family. Arthur is embarrassed and furious at the prank; Harry is more composed.
+- They continue walking for another ten minutes. Noah then says "Stop." Arthur immediately fears another bear or Roxy's angry dad; Harry stops, scans the trees and asks whether Noah saw an animal or a person. The reason for this second stop has NOT yet been revealed.
+
+============================================================
+13. OTHER NOTABLE EVENTS AND SCENES
+============================================================
+
+- Noah and Tyler visit Tyler's office. Noah jokes that the office is less exciting than expected and that Tyler smells like work. Noah sometimes spends time there while Tyler works, using his laptop/phone and minding his own business.
+- Noah has helped with small construction-related tasks and jokes that Tyler once made him do child labor. He says he worked on a construction site when younger and jokes that Tyler was lucky he did not report him for child labor law.
+- Noah asks Tyler how he got into business and how the Hoffman family began. Tyler explains German/French family background; Noah jokes about his own German and French blood.
+- Noah and Tyler visit a nature reserve. Noah chooses a mountain trail because there are fewer people. He teases Tyler for being slower and old, but also offers him water and tells him to rest.
+- They have a river/water fight. Noah pulls Tyler into the water and uses a hidden water pistol. Both get wet. Back at the house, Noah encourages Tyler to take off his wet shirt and enjoy the sun. Noah notices Tyler's tattoos and muscles, then draws a temporary marker tattoo on his chest. They take a photo and print it for a private hallway.
+- Noah sometimes cooks for Tyler after Tyler goes to the gym, including chicken parmesan, homemade blueberry jam, donuts and healthy lunch boxes. He teases Tyler about his belly and says Tyler needs to exercise. Tyler sometimes takes Noah's advice and goes to the gym.
+- Noah picks blueberries in the woods and makes homemade jam. He invites squirrels and birds to a "party" in the backyard with nuts and seeds.
+- Noah asks Tyler about the Hoffman family and their ancestry. Tyler explains some German/French background.
+- Noah and Tyler sometimes go shopping. Tyler buys Noah clothes, and Noah is hesitant because the clothes are expensive. Tyler insists he can afford them. Later Noah requests the $800 sneakers and Tyler agrees after negotiation.
+- Noah and Tyler have family sleepovers with Will, Sarah and Caleb. They share stories, watch movies and sometimes fish. Noah teases the adults about being old and tells them to behave.
+- Noah visits Will's mansion and explores the huge library. He asks about family history and sees old family items. The house is impressive but too large for Noah's taste.
+- Noah has a second room/bedroom at Leon's nearby house. He jokes that different houses have different rules and that he can stay up later there.
+- Noah and Tyler discuss building a basketball facility in their backyard. The location is explicitly the backyard, not the front of the house.
+- Noah sometimes gets sleepy in the car and asks Tyler to carry him inside. He jokes that Tyler is shorter but strong enough to carry him.
+- Noah once leaves his laptop at Tyler's office. They plan to retrieve it on Monday.
+- Noah sometimes teases Tyler by asking to drive the truck, but this is a joke; no permission or actual driving has been established.
+
+============================================================
+14. CURRENT STATUS OF MAJOR THREADS
+============================================================
+
+1. Father-son relationship: Strong and affectionate, but they have had a serious conflict. Noah once gave Tyler the silent treatment for an entire week, and Tyler cried during the conflict because he felt he was losing Noah and feared becoming like his own father. They reconciled and explicitly agreed not to use silent treatment again; if angry, they must talk or say they need space. Tyler is protective and teasing; Noah trusts him and loves him.
+2. Hoffman family reconciliation: Improving. Will, Caleb and Sarah are involved in family life. Tyler's relationship with Will is no longer simply avoidance, though history remains.
+3. Leon: Back in New York after his Alaska contract; has a nearby home and remains a major father figure.
+4. Game business: Noah's Property Flipper is successful and he has already completed a $30,000 sale of an earlier game. A $1 million offer for another project was left unanswered/undecided. Noah continues developing games and managing his community.
+5. Knicks: Noah rejected the first youth evaluation invitation, but the Knicks are still trying to renegotiate. Noah is undecided and currently says he wants games to remain his main focus and basketball to stay fun.
+6. School/social life: Noah is now popular after the basketball season and viral social media content. He still values privacy and his original friend group.
+7. Online safety: Creepy DMs/threats and public attention have worried Tyler. Tyler has taken steps to protect Noah; Noah is frustrated by restrictions but understands some risks.
+8. Friends: Arthur and Harry have recently joined the Library Corner Cult group chat. Harry is a new friend, and Arthur is an established teammate/friend.
+9. Nature: Noah continues to show friends his woodland spots and wildlife. Roxy and Charlie are recurring animal characters.
+10. Latest woodland/friends afternoon: Noah took Arthur and Harry through the woods, showed them Charlie the squirrel and the creek, collected wild blueberries, and teased Arthur about being a city-boy. Arthur tried the blueberries and liked them. Noah has made homemade jam from these woods' blueberries for years. The boys visited Noah's home, ate pizza and chocolate milkshakes paid for by Tyler, and played games. Noah posted Arthur's photo in the Library Corner Cult chat with a teasing caption. Oliver picked Arthur up; Harry walked home. Noah and Tyler cleaned up together. Tyler has gone upstairs, and Noah plans to build his newly arrived Ferrari F2004 LEGO set.
+
+============================================================
+15. EXACT CURRENT SCENE — CONTINUE FROM HERE
+============================================================
+
+Location: Tyler and Noah's countryside home, living room / upstairs area.
+Characters currently present: Noah and Tyler. Arthur and Harry have gone home; Oliver has collected Arthur.
+
+Recent sequence (latest afternoon, November 16, 2026):
+- Noah took Arthur and Harry into the woods behind his home. They visited Charlie the squirrel's tree, then walked to Noah's favorite creek spot. Noah showed them the peaceful creek and they ate snacks, making sure to take all rubbish with them.
+- On the return walk, Noah pretended to spot a bear; it was actually Roxy or one of her raccoon family, a "trash panda." Arthur panicked dramatically. Later, Noah stopped at a wild blueberry bush, picked a blueberry, cleaned it on his hoodie and ate it. He said the berries tasted better than grocery-store blueberries.
+- Noah explained he has eaten berries from those woods for four years and has made homemade blueberry jam using them. Arthur tried a blueberry, liked it, and joked about becoming Noah's jam-business partner / quality-control expert. Noah teased Arthur as a city-boy and questioned whether he could survive in the wilderness. Arthur defended himself, while Harry quietly pointed out how often Arthur panicked.
+- The boys talked about Noah having lived with Tyler in a Manhattan penthouse for one month before they moved to the countryside four years ago. Noah said he preferred trees. Tyler confirmed that he still owns the penthouse, which is currently empty and accumulating maintenance costs. Arthur joked that he wanted to house-sit or move in.
+- They arrived at Noah's backyard, where Tyler was waiting. Tyler greeted them and joked about their wilderness expedition. Noah reminded Tyler that he had eaten Noah's homemade blueberry jam before. Tyler praised Noah's cooking and teased him about collecting more ingredients.
+- They went inside and ordered two large pizzas (pepperoni and cheese) and chocolate milkshakes. Tyler paid. Arthur was loud and enthusiastic; Harry was quieter and polite. Tyler joked about being a cheap millionaire after Noah whispered that nickname to Arthur, though Tyler overheard.
+- While eating and playing games, Noah sent a photo of Arthur to the Library Corner Cult group chat with the caption: "Just survived wilderness with this city-boy." Liam, Olivia, Aidan, Grace and Matthew reacted; Harry added that Arthur thought a raccoon was a bear. Arthur demanded that Noah delete the photo and complained that Noah was a criminal.
+- About two hours later, Oliver arrived to pick up his younger brother Arthur. Arthur said goodbye to Noah, calling him Nature Prince and asking for a future outing without raccoons. Oliver thanked Tyler for hosting and teased Arthur about being frightened by a raccoon. Harry also said goodbye and walked home; his house is only three blocks away.
+- After the guests left, Tyler noted that Noah seemed to enjoy the afternoon and said it was nice seeing him invite friends over instead of disappearing into the woods alone. Noah confirmed he enjoyed it. Tyler asked whether he had deliberately made Arthur think there was a bear; Noah joked that he had promised Arthur there were no bears in the woods.
+- Noah and Tyler finished cleaning the living room together. Tyler asked about Noah's plans for the rest of the summer holiday. Noah said he was going to build the Ferrari LEGO set, which had arrived. Tyler remembered it was the approximately $90 Ferrari F2004 set and joked that he might buy himself a bigger LEGO set.
+- Noah told Tyler not to call him "kiddo." Tyler agreed not to use that nickname. Noah called Tyler "Little Tyler" and "honey" earlier in the afternoon; Tyler was amused and embarrassed. Their usual affectionate teasing continues.
+- Tyler mentioned a teenage story: he and Finn once sneaked into an abandoned construction site at night, got lost, triggered a security alarm, and had the police arrive. Finn blamed Tyler, Tyler blamed Finn, and Will found out, making it an unpleasant evening. Tyler told Noah not to get ideas.
+- Noah joked that he was not Tyler and would not become a family disgrace. Tyler joked that Noah was already a blueberry smuggler and a future criminal mastermind.
+- CURRENT LAST MOMENT: Tyler has headed upstairs after telling Noah to enjoy building the LEGO set. He ruffled Noah's hair and joked that he was still taller, "barely, but still." Noah is now about to build the Ferrari F2004 LEGO set. Continue from this exact point. Do not decide what Noah does or says next.
+
+============================================================
+16. CONTINUITY CAUTIONS
+============================================================
+
+rejected the first invitation and the Knicks are trying to renegotiate; Noah is not sure and prefers game development.
+- Do not make Noah a professional NBA player or a Knicks player. He is a 14-year-old school player who has received interest in a youth evaluation/development opportunity.
+- Do not make Noah a millionaire. He has made substantial money from games and has savings/investments, but he explicitly says he is not a millionaire yet.
+- Do not make Noah's game alias public unless the scene establishes that someone knows it. Harry knows he is Cookiegod; Arthur did not know until the latest creek conversation.
+- Do not make Tyler permissive with credit cards, debt, risky trading or unlimited allowance. He teaches financial responsibility.
+- Do not forget Noah's past abuse and the reason Tyler is protective, but do not turn every scene into a trauma scene. Most of their daily life is playful and affectionate.
+- Do not treat the $1,000 glass-door repair as money Noah actually paid. The resolution is that Tyler pays and Noah makes lunch / does agreed work.
+- Do not treat every joke as a literal fact. The family often exaggerates wealth, threats, nicknames, bargains and punishments for comedy.
+- Noah's mother is deceased. Do not introduce her as alive.
+- Tyler is 35 in the present, not an old man; "old man" is Noah's teasing nickname.
+- Noah is 14, Arthur is 15, Harry is 14, Matthew is 15, and Tyler is 35.
+- Keep the contrast between Arthur's energetic, dramatic personality and Harry's quiet, shy, analytical personality.
+- Arthur is Oliver's younger brother; Oliver is Tyler's assistant. Oliver picked Arthur up from Noah's home after the latest afternoon.
+- Harry lives three blocks from Noah and walked home after the visit.
+- Noah's current plan is to build the arrived Ferrari F2004 LEGO set. Do not assume he has finished it.
+- Noah explicitly asked Tyler not to call him 'kiddo'; Tyler agreed. Avoid using that nickname.
+- Tyler still owns his former Manhattan penthouse; it is currently empty. Noah and Tyler moved from there to the countryside home four years ago because Noah preferred trees and nature.
+- Noah has made homemade blueberry jam from wild blueberries growing in the woods behind the house. He has been eating those berries for four years. Arthur tried one and liked it.
+- Noah's favorite places and wildlife matter to him. He values nature, quiet, and the ability to disappear from the attention of school and social media.
+- The user controls Noah. Do not narrate Noah's response to the current stop or reveal what he has noticed.
+
+END OF SUMMARY
